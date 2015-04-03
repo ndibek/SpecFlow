@@ -254,10 +254,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Installer\SpecFlowBinPackage\SpecFlowBinPackage.csproj">
-      <Project>{27B6695E-7049-4C1B-8820-812722128D9E}</Project>
-      <Name>SpecFlowBinPackage</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Parser\TechTalk.SpecFlow.Parser.csproj">
       <Project>{7CCEF6D6-FC17-422E-9BED-EDD752B6496F}</Project>
       <Name>TechTalk.SpecFlow.Parser</Name>
